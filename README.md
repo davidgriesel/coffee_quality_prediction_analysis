@@ -1,4 +1,4 @@
-# Coffee Quality Modelling
+# Coffee Quality Prediction Analysis
 
 ## Overview
 This self-directed project used open-source coffee quality data to apply core machine learning techniques. The analysis focused on relationships between sensory measures, using geospatial analysis to explore regional trends, regression to predict one score from others, clustering to identify sensory profiles, and time series analysis to examine seasonal patterns and production stability.
